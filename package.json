@@ -1,0 +1,23 @@
+{
+  "name": "vue-midi",
+  "version": "0.0.1",
+  "description": "web midi plugin for vue",
+  "keywords":["vue","vue-plugin","midi"],
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {  
+  	"url": "https://github.com/Musixise/vue-web-midi/issues",
+  	"email": "634652863@qq.com"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/Musixise/vue-web-midi.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luufang169",
+  "license": "MIT"
+}
