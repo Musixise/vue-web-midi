@@ -20,7 +20,7 @@ import:
 import MIDIDevice from 'vue-web-midi';
 Vue.use(MIDIDevice);
 ```
-在组件中使用:
+example:
 
 ```javascript
 export default {
