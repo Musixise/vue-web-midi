@@ -1,5 +1,5 @@
 # vue-midi-plugin
-A web midi plugin for vue2. [中文文档](https://github.com/lin-xin/vue-toast/blob/master/README_zh.md)
+A web midi plugin for vue2. [中文文档](https://github.com/Musixise/vue-web-midi/blob/master/README_zh.md)
 
 <p>
   <a href="https://www.npmjs.com/package/vue-web-midi"><img src="https://img.shields.io/npm/dm/vue-web-midi.svg" alt="Downloads"></a>
