@@ -1,4 +1,4 @@
-# vue2-toast
+# vue-midi-plugin
 vue 处理 web midi 的插件 [English document](https://github.com/Musixise/vue-web-midi/blob/master/README.md)
 
 <p>

@@ -1,6 +1,6 @@
 {
   "name": "vue-midi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "web midi plugin for vue",
   "keywords":["vue","vue-plugin","midi"],
   "main": "lib/index.js",

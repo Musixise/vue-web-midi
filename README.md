@@ -1,4 +1,4 @@
-# vue2-toast
+# vue-midi-plugin
 A web midi plugin for vue2. [中文文档](https://github.com/lin-xin/vue-toast/blob/master/README_zh.md)
 
 <p>
